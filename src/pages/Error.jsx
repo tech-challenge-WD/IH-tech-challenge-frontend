@@ -1,7 +1,7 @@
 function Error() {
     return (
         <>
-        <h1>Error PAge</h1>
+        <h1>Error Page</h1>
         </>
     )
 
